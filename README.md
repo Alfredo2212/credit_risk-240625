@@ -5,6 +5,7 @@ and interactive Tableau dashboards. Aiming to:
 - Predict loan default likelihood
 - Identify key behavioral and financial indicators of defaulters
 - Provide actionable insights for credit risk management
+
 Final model performance: Random Forest Tuned 88% Accuracy , 76% Recall with attempt to
 maximizing recall for default prediction (class=1) to reduce false negatives in loan risk
 
