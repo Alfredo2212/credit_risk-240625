@@ -12,6 +12,7 @@ maximizing recall for default prediction (class=1) to reduce false negatives in 
 Dataset Information
 --
 Target variable : BAD / defualt_flag after renaming
+
 Features : Loan amount, mortgage due, property value, job type, years on job, credit history, income ratio, etc.
 
 Techniques Involved
